@@ -39,7 +39,7 @@ app.get('/api/jokes', (req, res) => {
         {
             id: 5,
             title: "The Developer",
-            content: "Why did the developer go broke? Because he used up all his cache!"
+            content: "Why did the developer go broke? Because he used up all h "
         }
     ];
 
