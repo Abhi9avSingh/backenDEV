@@ -6,6 +6,6 @@ try{
     );
     console.log("Folder created successfully");
 } catch (error) {
-    console.error("Error creating folder:", error);
+    console.error( error);
 }
  
