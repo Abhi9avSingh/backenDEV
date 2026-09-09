@@ -1,6 +1,6 @@
 import * as fs from 'fs/promises'
 try{
-    await fs.mkdir
+    await fs.writeFile("demo.txt","hello")
     (
         "C:\\Users\\abhin\\OneDrive\\Apps\\code\\connectingfntndback\\bckendjsblankFolder"
     );
