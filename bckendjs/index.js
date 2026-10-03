@@ -36,11 +36,11 @@ app.get('/api/jokes', (req, res) => {
             title: "The Developer",
             content: "Why did the developer go broke? Because he used up all his cache!"
         },
-        {
-            id: 5,
-            title: "The Developer",
-            content: "Why did the developer go broke? Because he used up all his cachefgj"
-        }
+        // {
+        //     id: 5,
+        //     title: "The Developer",
+        //     content: "Why did the developer go broke? Because he used up all his cachefgj"
+        // }
     ];
 
     res.send(jokes);
